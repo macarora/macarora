@@ -36,7 +36,7 @@
 [Pizza Shop Database](#) | Relational database for a pizza shop with schema, data and queries | SQL · T-SQL |
 [Playlist Manager - Linked List](#) | C++ playlist manager built using a custom linked list | C++ · Linked Lists · Data Structures |
 | [Infix to Postfix Converter](#) | C++ expression converter using stacks and queues | C++ · Stacks · Queues · Data Structures |
-| [Spell Checker](#) | C++ spell checker using binary search tree and hash table | C++ · BST · Hash Tables · Data Structures |
+| [Spell Checker](#) | C++ spell checker using binary search tree and hash table | C++ · Hash Tables · Data Structures |
 
 
 ---
