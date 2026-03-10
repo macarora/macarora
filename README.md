@@ -28,7 +28,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [E-Business for Everyone: The Shopify Solution](#) | [Academic research paper on how Shopify enables E-Business for everyone] | Latex · Overleaf |
+| [E-Business for Everyone: The Shopify Solution]([#](https://github.com/macarora/samsung-knox-cybersecurity-guide)) | [Academic research paper on how Shopify enables E-Business for everyone] | Latex · Overleaf |
 | [Samsung Knox Cybersecurity Guide](#) | Technical report on Samsung Knox mobile security] | Microsoft Word |
 | [Song Collection Manager](#) | [A Java console app to manage music albums and songs with file reading capability | JAVA |
 | [What To Wear App](#) | Mobile wardrobe app to digitise and organise clothing built with .NET MAUI | C# · .NET MAUI · XAML |
