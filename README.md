@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:** Java | JavaScript | C# | HTML | CSS | React | .NET MAUI | SQL  
-**Tools & Platforms:** Figma | Azure DevOps | Power BI | Amazon QuickSight | MS Dynamics 365  
+**Tools & Platforms:** Figma | Azure DevOps | Power BI | Amazon QuickSight  
 **Design:** Adobe Photoshop | Illustrator | Premiere Pro | Canva  
 **Practices:** Agile | Sprint Planning | QA Testing | UI/UX Prototyping  
 
