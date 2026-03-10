@@ -36,7 +36,7 @@
 [Pizza Shop Database](https://github.com/macarora/pizza-shop-database-sql) | Relational database for a pizza shop with schema, data and queries | SQL · T-SQL |
 [Playlist Manager - Linked List](https://github.com/macarora/playlist-linked-list-cpp) | C++ playlist manager built using a custom linked list | C++ · Linked Lists · Data Structures |
 | [Infix to Postfix Converter](https://github.com/macarora/infix-to-postfix-converter-cpp) | C++ expression converter using stacks and queues | C++ · Stacks · Queues · Data Structures |
-| [Spell Checker](#) | C++ spell checker using binary search tree and hash table | C++ · Hash Tables · Data Structures |
+| [Spell Checker](https://github.com/macarora/spell-checker-cpp) | C++ spell checker using binary search tree and hash table | C++ · Hash Tables · Data Structures |
 
 
 ---
