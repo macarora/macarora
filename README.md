@@ -28,9 +28,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [E-Business for Everyone: The Shopify Solution](GITHUB REPO LINK) | [Academic research paper on how Shopify enables E-Business for everyone] | Latex · Overleaf |
-| [Samsung Knox Cybersecurity Guide](GITHUB REPO LINK) | Technical report on Samsung Knox mobile security] | Microsoft Word |
-| [Song Collection Manager](GITHUB REPO LINK) | [A Java console app to manage music albums and songs with file reading capability | JAVA |
+| [E-Business for Everyone: The Shopify Solution](#) | [Academic research paper on how Shopify enables E-Business for everyone] | Latex · Overleaf |
+| [Samsung Knox Cybersecurity Guide](#) | Technical report on Samsung Knox mobile security] | Microsoft Word |
+| [Song Collection Manager](#) | [A Java console app to manage music albums and songs with file reading capability | JAVA |
 | [What To Wear App](#) | Mobile wardrobe app to digitise and organise clothing built with .NET MAUI | C# · .NET MAUI · XAML |
 | [E-Commerce Sentiment Analysis](#) | ML sentiment analysis using DistilBERT and scikit-learn on e-commerce reviews | Python · ML · Hugging Face |
 [Pizza Shop Database](#) | Relational database for a pizza shop with schema, data and queries | SQL · T-SQL |
