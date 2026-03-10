@@ -31,7 +31,7 @@
 | [E-Business for Everyone: The Shopify Solution](https://github.com/macarora/ebusiness-shopify-research) | [Academic research paper on how Shopify enables E-Business for everyone] | Latex · Overleaf |
 | [Samsung Knox Cybersecurity Guide](https://github.com/macarora/samsung-knox-cybersecurity-guide) | Technical report on Samsung Knox mobile security] | Microsoft Word |
 | [Song Collection Manager](https://github.com/macarora/song-collection-java) | [A Java console app to manage music albums and songs with file reading capability | JAVA |
-| [What To Wear App](#) | Mobile wardrobe app to digitise and organise clothing built with .NET MAUI | C# · .NET MAUI · XAML |
+| [What To Wear App](https://github.com/macarora/what-to-wear-maui-app/tree/main) | Mobile wardrobe app to digitise and organise clothing built with .NET MAUI | C# · .NET MAUI · XAML |
 | [E-Commerce Sentiment Analysis](#) | ML sentiment analysis using DistilBERT and scikit-learn on e-commerce reviews | Python · ML · Hugging Face |
 [Pizza Shop Database](#) | Relational database for a pizza shop with schema, data and queries | SQL · T-SQL |
 [Playlist Manager - Linked List](#) | C++ playlist manager built using a custom linked list | C++ · Linked Lists · Data Structures |
