@@ -28,7 +28,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [E-Business for Everyone: The Shopify Solution](GITHUB REPO LINK) | [Academic research paper on how Shopify enables E-Business for everyone] | Latex · Overleaf] |
+| [E-Business for Everyone: The Shopify Solution](GITHUB REPO LINK) | [Academic research paper on how Shopify enables E-Business for everyone] | Latex · Overleaf |
 | [Samsung Knox Cybersecurity Guide](GITHUB REPO LINK) | Technical report on Samsung Knox mobile security] | Microsoft Word |
 | [Song Collection Manager](GITHUB REPO LINK) | [A Java console app to manage music albums and songs with file reading capability | JAVA |
 | [What To Wear App](#) | Mobile wardrobe app to digitise and organise clothing built with .NET MAUI | C# · .NET MAUI · XAML |
