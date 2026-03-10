@@ -1,6 +1,6 @@
 # Hi, I'm Mrigul Arora (Mac) 👋
 
-🎓 Bachelor of Information Technology (Distinction, GPA: 6.1/7.0 – University of Newcastle)  
+🎓 Bachelor of Information Technology (Distinction, GPA: 6.2/7.0 – University of Newcastle)  
 💻 Passionate about Web Development, Mobile Apps, AI/ML & Generative AI  
 🔍 Actively seeking graduate and junior roles in tech  
 🌱 Currently exploring: Cloud Computing & Generative AI
