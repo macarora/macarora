@@ -33,7 +33,7 @@
 | [Song Collection Manager](https://github.com/macarora/song-collection-java) | [A Java console app to manage music albums and songs with file reading capability | JAVA |
 | [What To Wear App](https://github.com/macarora/what-to-wear-maui-app/tree/main) | Mobile wardrobe app to digitise and organise clothing built with .NET MAUI | C# · .NET MAUI · XAML |
 | [E-Commerce Sentiment Analysis](https://github.com/macarora/ecommerce-sentiment-analysis-ml) | ML sentiment analysis using DistilBERT and scikit-learn on e-commerce reviews | Python · ML · Hugging Face |
-[Pizza Shop Database](#) | Relational database for a pizza shop with schema, data and queries | SQL · T-SQL |
+[Pizza Shop Database](https://github.com/macarora/pizza-shop-database-sql) | Relational database for a pizza shop with schema, data and queries | SQL · T-SQL |
 [Playlist Manager - Linked List](#) | C++ playlist manager built using a custom linked list | C++ · Linked Lists · Data Structures |
 | [Infix to Postfix Converter](#) | C++ expression converter using stacks and queues | C++ · Stacks · Queues · Data Structures |
 | [Spell Checker](#) | C++ spell checker using binary search tree and hash table | C++ · Hash Tables · Data Structures |
