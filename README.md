@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:** JavaScript | C# | HTML | CSS | React | .NET MAUI | SQL  
+**Languages & Frameworks:** Java | JavaScript | C# | HTML | CSS | React | .NET MAUI | SQL  
 **Tools & Platforms:** Figma | Azure DevOps | Power BI | Amazon QuickSight | MS Dynamics 365  
 **Design:** Adobe Photoshop | Illustrator | Premiere Pro | Canva  
 **Practices:** Agile | Sprint Planning | QA Testing | UI/UX Prototyping  
@@ -28,9 +28,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [E-Business for Everyone: The Shopify Solution](YOUR GITHUB REPO LINK) | [Academic research paper on how Shopify enables E-Business for everyone] | [Latex | Overleaf] |
-| [Samsung Knox Cybersecurity Guide](YOUR GITHUB REPO LINK) | Technical report on Samsung Knox mobile security] | [Microsoft Word] |
-| [Song Collection Manager](YOUR GITHUB REPO LINK) | [A Java console app to manage music albums and songs with file reading capability | [JAVA] |
+| [E-Business for Everyone: The Shopify Solution](GITHUB REPO LINK) | [Academic research paper on how Shopify enables E-Business for everyone] | [Latex | Overleaf] |
+| [Samsung Knox Cybersecurity Guide](GITHUB REPO LINK) | Technical report on Samsung Knox mobile security] | [Microsoft Word] |
+| [Song Collection Manager](GITHUB REPO LINK) | [A Java console app to manage music albums and songs with file reading capability | [JAVA] |
 
 ---
 
